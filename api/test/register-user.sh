@@ -1,0 +1,1 @@
+curl -v http://localhost:8080/users -X POST -d '{"image":"https://www.ngenespanol.com/wp-content/uploads/2024/03/estos-son-los-animales-que-no-deberias-tener-como-mascotas.jpg","name":"Tati","surname":"Garcia","email":"tati@garcia.com","password":"123123123","passwordRepeat":"123123123"}' -H "Content-Type: application/json"

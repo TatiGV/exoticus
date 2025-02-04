@@ -1,0 +1,1 @@
+curl -X POST -v http://localhost:8080/petsitters/66cdd87d15aa250d30fa1f0e/review -d '{"comment":"Todo perfecto, volveré sin duda!", "rate": 3}' -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2NmNkZDgwYTE1YWEyNTBkMzBmYTFmMGEiLCJyb2xlIjoicmVndWxhciIsImlhdCI6MTcyNDc3MDc4OX0.YzC3n2Ngrzaa3y-TYiOYjsbevmdjgK-_ACOrbnDKe_8" -H "Content-Type: application/json"

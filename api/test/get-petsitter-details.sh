@@ -1,0 +1,1 @@
+curl -X GET -v http://localhost:8080/petsitters/66cb7a85430879339af7419c -H "Content-Type: application/json"
