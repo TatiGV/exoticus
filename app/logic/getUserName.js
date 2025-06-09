@@ -1,4 +1,4 @@
-import { errors } from '../../com/index.js'
+import { errors } from '../com/index.js'
 
 const { SystemError } = errors
 

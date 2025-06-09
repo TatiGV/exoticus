@@ -1,4 +1,4 @@
-import { errors, validate } from '../../com/index.js'
+import { errors, validate } from '../com/index.js'
 import extractPayLoadFromToken from '../util/extractPayLoadFromToken'
 
 const { SystemError } = errors

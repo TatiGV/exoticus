@@ -12,8 +12,7 @@ import Button from '../library/Button.jsx';
 import Link from '../library/Link.jsx';
 import Footer from '../home/Footer.jsx';
 
-import { errors } from '../../../com/index.js';
-
+import { errors } from '../../com/index.js';
 
 const { NotFoundError, CredentialsError } = errors;
 
