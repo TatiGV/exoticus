@@ -15,8 +15,6 @@
   "description": "",
   "dependencies": {
     "bcryptjs": "^2.4.3",
-    "com": "file:../com",
-    "cor": "file:../cor",
     "dotenv": "^16.4.7",
     "express": "^4.19.2",
     "jsonwebtoken": "^9.0.2",
