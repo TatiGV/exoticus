@@ -125,8 +125,8 @@ export default function Settings({ onLogoutClick }) {
 
     return <>
         <Header />
-        <main className='h-full flex flex-col mt-10'>
-            <Container className='bg-teal-100 pt-8 pb-40'>
+        <main className='h-screen flex flex-col mt-10 bg-teal-100'>
+            <Container className=' pt-8 pb-40'>
 
                 <Heading className='text-center m-4 text-2xl font-bold font-salsa'>Editar usuario</Heading>
 
